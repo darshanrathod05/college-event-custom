@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-## College Event Management System
+
+## College Event Management System (Updated by Student 1 and project is done by student 1 and student 2)
 
 This web application allows students to register for college events online. It provides an easy way to view available events, submit registration details, and store all data securely using a Supabase backend. The system helps organizers manage participants and maintain clean records without manual paperwork.
 
@@ -10,6 +10,4 @@ This web application allows students to register for college events online. It p
 - **Part 3 (Git workflow):**
   - Feature branch: feat/setup-form-ui
   - PR created by Student B into Original Repository.
-=======
-## College Event Management System (Updated by Student 1 and project is done by student 1 and student 2)
->>>>>>> upstream/main
+
